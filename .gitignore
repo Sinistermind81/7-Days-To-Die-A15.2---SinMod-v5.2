@@ -240,3 +240,63 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+*.exe
+7DaysToDie_Data/globalgamemanagers
+*.assets
+7DaysToDie_Data/level0
+7DaysToDie_Data/level1
+*.dll
+*.aspx
+7DaysToDie_Data/Mono/etc/mono/1.0/machine.config
+*.browser
+7DaysToDie_Data/Mono/etc/mono/2.0/machine.config
+*.map
+7DaysToDie_Data/Mono/etc/mono/2.0/web.config
+*.ini
+7DaysToDie_Data/Mono/etc/mono/config
+*.resS
+7DaysToDie_Data/Mono/etc/mono/mconfig/config.xml
+*.resource
+7DaysToDie_Data/Resources/unity default resources
+7DaysToDie_Data/Resources/unity_builtin_extra
+*.config
+ArchSrc/x86_64/7DaysToDie_Data/Mono/etc/mono/config
+ArchSrc/x86_64/7DaysToDie_Data/Mono/etc/mono/mconfig/config.xml
+*.bin
+Data/Bundles/BlockTextureAtlases
+Data/Bundles/Bundles
+*.manifest
+Data/Bundles/TerrainTextures
+Data/Bundles/umaplayer
+Data/Worlds/Navezgane/entities.xml
+Data/Worlds/Navezgane/entityspawners.xml
+*.dtm
+Data/Worlds/Navezgane/main.ttw
+Data/Worlds/Navezgane/map_info.xml
+*.7rg
+Data/Worlds/Navezgane/prefabs.xml
+Data/Worlds/Navezgane/map_thumbnail.jpg
+Data/Worlds/Navezgane/spawnpoints.xml
+Data/Worlds/Random Gen/entities.xml
+Data/Worlds/Random Gen/main.ttw
+Data/Worlds/Random Gen/entityspawners.xml
+Data/Worlds/Random Gen/map_info.xml
+Data/Worlds/Random Gen/map_thumbnail.jpg
+*.vdf
+*.po
+*.cfg
+serverconfig.xml
+*.bat
+steam_appid.txt
+EasyAntiCheat/Licenses/MIT.txt
+EasyAntiCheat/Licenses/Licenses.txt
+Data/Worlds/Random Gen/prefabs.xml
+Data/Worlds/Random Gen/spawnpoints.xml
+Data/Worlds/Random Gen/world.xml
+EasyAntiCheat/Certificates/game.cer
+EasyAntiCheat/Launcher/Resource/Settings.json
+EasyAntiCheat/Launcher/Resource/splash_screen.png
+EasyAntiCheat/Licenses/Apache-2.0.txt
+EasyAntiCheat/Licenses/CCO-1.0.txt
+EasyAntiCheat/Licenses/LGPL-2.1.txt
+EasyAntiCheat/Licenses/LGPL-3.0.txt
