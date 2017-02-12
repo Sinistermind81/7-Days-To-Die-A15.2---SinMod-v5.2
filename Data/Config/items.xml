@@ -15063,7 +15063,6 @@ which does not exist, yet. -->
 	<property name="Candrop" value="false" />
 	<property name="IsDeveloper" value="true" />
 </item>
-
 <item id="2721" name="banditclubSpiked" >
 	<property name="Extends" value="clubIron" />
 	<property name="EntityDamage" value="45,75" />
@@ -15072,7 +15071,6 @@ which does not exist, yet. -->
 	<property name="Candrop" value="false" />
 	<property name="IsDeveloper" value="true" />
 	</item>
-
 <item id="2722" name="banditsledgehammer" >
 <property name="Extends" value="sledgehammer" />
 		<property class="Action0"> <!-- AttackAction -->
@@ -15083,21 +15081,18 @@ which does not exist, yet. -->
 		<property name="Candrop" value="false" />
 		<property name="IsDeveloper" value="true" />
 		</item>
-
 <item id="2723" name="banditclubWood" >
 <property name="Extends" value="clubWood" />
 <property name="SellableToTrader" value="false" />
 	<property name="Candrop" value="false" />
 	<property name="IsDeveloper" value="true" />
 	</item>
-
 <item id="2724" name="banditfireaxeSteel" >
 <property name="Extends" value="fireaxeSteel" />
 <property name="SellableToTrader" value="false" />
 	<property name="Candrop" value="false" />
 	<property name="IsDeveloper" value="true" />
 	</item>
-
 <item id="2725" name="banditmachete" >
 <property name="Extends" value="machete" />
 	<property class="Action0"> <!-- AttackAction -->
@@ -15107,7 +15102,6 @@ which does not exist, yet. -->
 		<property name="Candrop" value="false" />
 		<property name="IsDeveloper" value="true" />
 		</item>
-
 <item id="2726" name="banditgunPistol" >
 <property name="Extends" value="gunPistol" />
 	<property class="Parts">
@@ -15128,7 +15122,6 @@ which does not exist, yet. -->
 		<property name="Candrop" value="false" />
 	<property name="IsDeveloper" value="true" />
 	</item>
-
 <item id="2727" name="banditgun44Magnum" >
 	<property name="Extends" value="gun44Magnum" />
 			<property class="Parts">
@@ -15149,7 +15142,6 @@ which does not exist, yet. -->
 		<property name="Candrop" value="false" />
 	<property name="IsDeveloper" value="true" />
 		</item>
-
 <item id="2728" name="banditgunSawedOffPumpShotgun" >
 <property name="Extends" value="gunSawedOffPumpShotgun" />
 	<property class="Parts">
@@ -15169,7 +15161,6 @@ which does not exist, yet. -->
 		<property name="Candrop" value="false" />
 	<property name="IsDeveloper" value="true" />
 		</item>
-
 <item id="2729" name="banditgunMP5" >
 <property name="Extends" value="gunMP5" />
 		<property class="Parts">
@@ -15189,7 +15180,6 @@ which does not exist, yet. -->
 		<property name="Candrop" value="false" />
 	<property name="IsDeveloper" value="true" />
 		</item>
-
 <item id="2730" name="banditgunAK47" >
 <property name="Extends" value="gunAK47" />
 <property class="Parts">
@@ -15209,7 +15199,6 @@ which does not exist, yet. -->
 		<property name="Candrop" value="false" />
 	<property name="IsDeveloper" value="true" />
 		</item>
-
 <item id="2731" name="banditgunHuntingRifle" >
 <property name="Extends" value="gunHuntingRifle" />
 		<property class="Parts">
@@ -15229,7 +15218,6 @@ which does not exist, yet. -->
 		<property name="Candrop" value="false" />
 	<property name="IsDeveloper" value="true" />
 		</item>
-
 <item id="2732" name="banditgunSniperRifle" >
 <property name="Extends" value="gunSniperRifle" />
 		<property class="Parts">
@@ -15249,7 +15237,6 @@ which does not exist, yet. -->
 		<property name="Candrop" value="false" />
 	<property name="IsDeveloper" value="true" />
 		</item>		
-
 <item id="2733" name="banditblunderbuss" >
 <property name="Extends" value="banditgunSawedOffPumpShotgun" />
 	<property name="Meshfile" value="Items/Weapons/Ranged/blunderbuss/blunderbussPrefab" />
@@ -15307,7 +15294,6 @@ which does not exist, yet. -->
 	<property name="CraftingSkillGroup" value="Weapon Smithing"/> <!-- 15.0 workaround. Should be Gun Smithing -->
 	<property name="RepairExpMultiplier" value="10.8"/>
 </item>
-
 <item id="2734" name="banditwoodenBow" >
 <property name="Extends" value="banditblunderbuss" />
 	<property name="Meshfile" value="Items/Weapons/Ranged/Bows/WoodenBow/WoodenBowPrefab" />
@@ -15364,7 +15350,6 @@ which does not exist, yet. -->
 	<property name="RepairExpMultiplier" value="5.5"/>
 	<property name="PickupJournalEntry" value="alternateAmmoTip" />
 </item>
-	
 <item id="2735" name="banditAuger" >
 	<property name="Extends" value="auger" />
 	<property class="Parts">
@@ -15396,7 +15381,6 @@ which does not exist, yet. -->
 	<property name="Candrop" value="false" />
 		<property name="IsDeveloper" value="true" />
 		</item>		
-
 <item id="2736" name="banditgunPumpShotgun">
 	<property name="Extends" value="gunPumpShotgun" />
 	<property class="Parts">
@@ -15418,9 +15402,8 @@ which does not exist, yet. -->
 		<property name="Candrop" value="false" />
 		<property name="IsDeveloper" value="true" />
 </item>	
-
 <item id="2737" name="banditcrossbow" >
-<property name="Extends" value="banditblunderbuss" />
+  <property name="Extends" value="banditblunderbuss" />
 		<property name="Meshfile" value="Items/Weapons/Ranged/Bows/Crossbow/crossbowPrefab" />
 		<property name="Material" value="metal" />
 		<property name="RepairTools" value="repairKit" />
@@ -15464,15 +15447,13 @@ which does not exist, yet. -->
 		<property name="RepairExpMultiplier" value="10.8"/>
 		<property name="PickupJournalEntry" value="gunAssemblyTip,augmentGunsTip" />
 		</item>
-
-<!-- <item id="2738" name="banditcrossbow1" >
+<item id="2738" name="banditcrossbow1" >
 <property name="Extends" value="banditcrossbow" />
 <property name="SellableToTrader" value="false" />
 <property name="Candrop" value="false" />
 		<property name="IsDeveloper" value="true" />
 		<property name="Magazine_items" value="banditexplodingCrossbowBolt" />
-	</item> -->
-
+	</item>
 <item id="2739" name="banditcrossbow2" >
 <property name="Extends" value="banditcrossbow" />
 <property name="SellableToTrader" value="false" />
@@ -15480,91 +15461,82 @@ which does not exist, yet. -->
 		<property name="IsDeveloper" value="true" />
 		<property name="Magazine_items" value="banditsteelCrossbowBolt" />
 	</item>	
-
+  
+  <!--Bandit Ammo-->
 <item id="2740" name="bandit9mmBullet" >
 	<property name="Extends" value="9mmBullet" />
 	<property name="SellableToTrader" value="false" />
 	<property name="Candrop" value="false" />
 	<property name="IsDeveloper" value="true" />
 </item>
-
 <item id="2741" name="bandit10mmBullet" >
 <property name="Extends" value="10mmBullet" />
 	<property name="SellableToTrader" value="false" />
 <property name="Candrop" value="false" />
 		<property name="IsDeveloper" value="true" />
 	</item>
-
 <item id="2742" name="bandit44MagBullet" >
 <property name="Extends" value="44MagBullet" />
 	<property name="SellableToTrader" value="false" />
 <property name="Candrop" value="false" />
 		<property name="IsDeveloper" value="true" />
 	</item>
-
 <item id="2743" name="bandit762mmBullet" >
 <property name="Extends" value="762mmBullet" />
 	<property name="SellableToTrader" value="false" />
 <property name="Candrop" value="false" />
 		<property name="IsDeveloper" value="true" />
 	</item>
-
 <item id="2744" name="banditshotgunShell" >
 <property name="Extends" value="shotgunShell" />
 	<property name="SellableToTrader" value="false" />
 <property name="Candrop" value="false" />
 		<property name="IsDeveloper" value="true" />
 	</item>
-
 <item id="2745" name="banditblunderbussAmmo" >
 <property name="Extends" value="blunderbussAmmo" />
 	<property name="SellableToTrader" value="false" />
 <property name="Candrop" value="false" />
 		<property name="IsDeveloper" value="true" />
 	</item>
-
 <item id="2746" name="banditgasCan" >
 <property name="Extends" value="gasCan" />
 	<property name="SellableToTrader" value="false" />
 <property name="Candrop" value="false" />
 		<property name="IsDeveloper" value="true" />
 	</item>
-
 <item id="2747" name="banditCrossbowBolt" > 
 <property name="Extends" value="ironCrossbowBolt" />
 <property name="SellableToTrader" value="false" />
 <property name="Candrop" value="false" />
 		<property name="IsDeveloper" value="true" />
 </item>
-
 <item id="2748" name="banditsteelCrossbowBolt" >
 <property name="Extends" value="banditCrossbowBolt" />
 	<property name="SellableToTrader" value="false" />
 <property name="Candrop" value="false" />
 		<property name="IsDeveloper" value="true" />
 	</item>
-
 <item id="2749" name="banditexplodingCrossbowBolt" >
 <property name="Extends" value="explodingCrossbowBolt" />
 	<property name="SellableToTrader" value="false" />
 <property name="Candrop" value="false" />
 		<property name="IsDeveloper" value="true" />
 	</item>
-
 <item id="2750" name="banditarrow" >
 <property name="Extends" value="arrow" />
 	<property name="SellableToTrader" value="false" />
 <property name="Candrop" value="false" />
 		<property name="IsDeveloper" value="true" />
 	</item>
-
 <item id="2751" name="banditShotgunSlug">
 	<property name="Extends" value="shotgunSlug" />
 	<property name="SellableToTrader" value="false" />
 <property name="Candrop" value="false" />
 		<property name="IsDeveloper" value="true" />
 	</item>
-	
+  
+	<!--Bandit Weapon Parts-->
 <item id="2752" name="banditpartsPistol_grip">
 	<property name="Extends" value="partsMaster" />
 	<property name="DescriptionKey" value="partsPistolGroupDesc"/>
@@ -15799,6 +15771,7 @@ which does not exist, yet. -->
 	<property name="Candrop" value="false" />
 		<property name="IsDeveloper" value="true" />
 </item>
+  
 <item id="2770" name="banditpartsAK47_stock">
 	<property name="Extends" value="partsMaster" />
 	<property name="DescriptionKey" value="partsAK47GroupDesc"/>
@@ -15849,6 +15822,7 @@ which does not exist, yet. -->
 	<property name="Candrop" value="false" />
 		<property name="IsDeveloper" value="true" />
 </item>
+  
 <item id="2774" name="banditpartsHuntingRifle_stock">
 	<property name="Extends" value="partsMaster" />
 	<property name="DescriptionKey" value="partsHuntingRifleGroupDesc"/>
@@ -15903,6 +15877,7 @@ which does not exist, yet. -->
 	<property name="Candrop" value="false" />
 		<property name="IsDeveloper" value="true" />
 </item>
+  
 <item id="2778" name="banditpartsSniperRifle_stock">
 	<property name="Extends" value="partsMaster" />
 	<property name="DescriptionKey" value="partsSniperRifleGroupDesc"/>
@@ -15956,6 +15931,7 @@ which does not exist, yet. -->
 	<property name="Candrop" value="false" />
 		<property name="IsDeveloper" value="true" />
 </item>
+  
 <item id="2782" name="banditpartsChainsaw_parts">
 	<property name="Extends" value="partsMaster" />
 	<property name="CustomIcon" value="partsAuger_parts" /> <!-- xxx -->
@@ -15963,11 +15939,10 @@ which does not exist, yet. -->
 	<property name="Weight" value="10" />
 	<property class="Attributes">
 		<property name="FalloffRange" value="2.35,2.35" />
-		
-		</property>
-		<property name="SellableToTrader" value="false" />
+  </property>
+  <property name="SellableToTrader" value="false" />
 	<property name="Candrop" value="false" />
-		<property name="IsDeveloper" value="true" />
+  <property name="IsDeveloper" value="true" />
 </item>
 <item id="2783" name="banditpartsChainsaw_blade">
 	<property name="Extends" value="partsMaster" />
@@ -15984,6 +15959,7 @@ which does not exist, yet. -->
 	<property name="Candrop" value="false" />
 		<property name="IsDeveloper" value="true" />
 </item>
+  
 <item id="2784" name="banditpartsAuger_parts">
 	<property name="Extends" value="partsMaster" />
 	<property name="PartType" value="Stock" />
@@ -16048,6 +16024,7 @@ which does not exist, yet. -->
 	</property>
 	<property name="Group" value="Resources" />
 </item>
+  
 <item id="2788" name="nailgun">
 	<property name="Meshfile" value="Items/Tools/nailgunPrefab" />
 	<property name="Material" value="metal" />
